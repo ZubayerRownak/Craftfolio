@@ -62,9 +62,11 @@ and shaping the future 🌍 through creativity ✨ and code 💻!"</h6>
 
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-src="https://github-profile-trophy.vercel.app/?username=ZubayerRownak"
-alt="ZubayerRownak" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ZubayerRownak" alt="ZubayerRownak" style="width: 50%; max-width: 300px;" />
+    </a>
+</p>
 
 <div align="left">
 
@@ -88,9 +90,10 @@ alt="ZubayerRownak" /></a> </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubayerRownak&show_icons=true&locale=en" alt="ZubayerRownak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZubayerRownak&" alt="ZubayerRownak" /></p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZubayerRownak&show_icons=true&locale=en" alt="ZubayerRownak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubayerRownak&" alt="ZubayerRownak" />
+</div>
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="23" height="23"/> </a> 
