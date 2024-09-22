@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/ZubayerRownak/Basic_Programming_Learning/blob/2bc33a20ee07125741300145feb03a642ffea005/git_avatar%201.png"  />
+  <img height="150" src="https://github.com/ZubayerRownak/portfolio/blob/main/assets%2Fgit_avatar.png"  />
 </div>
 <h1 align="center"><p>Mohammad Zubayer Rownak</p>
 <div align="center">
