@@ -11,6 +11,11 @@
 <a href="https://discord.gg/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://x.com/immortalpirate21st" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ZubayerRownak&color=blue&style=flat-square)
+[![Mail](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
+
 <!-- 
 <a href="https://codepen.io/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="immortalpirate21st" height="30" width="40" /></a>
 <a href="https://dev.to/immortalpirate21st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="immortalpirate21st" height="30" width="40" /></a>
